@@ -63,3 +63,4 @@ export DEPLOY_ENV=production
 ./scripts/deploy.sh
 update
 ### Contributors\n- Divya Teja
+## Commit History Summary
