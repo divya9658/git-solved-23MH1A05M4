@@ -24,4 +24,5 @@ Thumbs.db
 
 # Temporary files
 *.tmp
-*.swp
+*.swpnode_modules/
+.vscode/
