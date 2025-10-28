@@ -1,8 +1,2 @@
-- 229c95a: docs: Update README (divya9658, 13 hours ago)
-- 9b0f20c: merge: Resolve all conflicts between main and dev branches (divya9658, 13 hours ago)
-- 8fc7db4: merge: Resolve all conflicts between main and dev branches (divya9658, 14 hours ago)
-- d3dd9b2: updating conflict-simulator (Hanu Gupta, 3 days ago)
-- 02011a5: updating dev (Hanu Gupta, 3 days ago)
-- 0312c6f: updating main (Hanu Gupta, 3 days ago)
-- fadfd24: Revise README for DevOps Simulator project (Hanu Gupta, 3 days ago)
-- ae630eb: Initial commit (Hanu Gupta, 3 days ago)
+# Changelog
+- Initial workflow setup
